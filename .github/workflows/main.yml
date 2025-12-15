@@ -25,7 +25,7 @@ jobs:
       run: pip install -r requirements.txt
       
     - name: Run script
-      run: python Github_contributions.py
+      run: python github_contributions.py
       
     - name: add and change
       run: |
