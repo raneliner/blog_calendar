@@ -71,7 +71,7 @@ class handler(BaseHTTPRequestHandler):
         return
 if __name__ == "__main__":
     # 方式1：直接指定用户名 !!!!!!!!!!!!!!!!Custom here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    username = "raneliner"  # 替换为实际的GitHub用户名
+    username = "fbwarkup"  # 替换为实际的GitHub用户名
     #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Custom here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
     print(f"正在获取 {username} 的贡献数据...")
